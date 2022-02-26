@@ -1,6 +1,4 @@
-- name: Base de conhecimento
+- name: Knowledge base
   link: /
 - name: Videos
   link: /videos/
-- name: Enviar Solicitação
-  link: /contact/
